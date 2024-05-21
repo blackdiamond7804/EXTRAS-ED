@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\Escritorio\Templates 1.1\Repaso Lambda\Repaso Lambda\main.cpp(14,13): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\User\OneDrive\Escritorio\Templates 1.1\Repaso Lambda\Repaso Lambda\main.cpp(30,65): error C3861: 'endl': no se encontró el identificador
+  C:\Users\User\OneDrive\Escritorio\Templates 1.1\Repaso Lambda\Repaso Lambda\main.cpp(9,6):
+  Diagnóstico en la función 'void mostrarAbs(T)' generada por el compilador
+  
+C:\Users\User\OneDrive\Escritorio\Templates 1.1\Repaso Lambda\Repaso Lambda\main.cpp(30,65): error C2065: 'endl': identificador no declarado
+  C:\Users\User\OneDrive\Escritorio\Templates 1.1\Repaso Lambda\Repaso Lambda\main.cpp(9,6):
+  Diagnóstico en la función 'void mostrarAbs(T)' generada por el compilador
+  
